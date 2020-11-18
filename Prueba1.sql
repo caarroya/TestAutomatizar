@@ -1,1 +1,2 @@
-CREATE TABLE CLAUDIA
+CREATE TABLE CLAUDIA as
+select *  from aprendizaje
